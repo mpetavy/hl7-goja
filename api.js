@@ -338,7 +338,7 @@ const _SegmentGenerator = function (type) {
   }.bind(this))(this, type);
 };
 
-module.exports = class HL7 {
+class HL7 {
   constructor (data = '', opts = {}) {
     this.raw = (typeof data === 'string') ? data : '';
     this.transformed = {};
