@@ -1,8 +1,8 @@
-## GOJAHL7
+## HL7-GOJA
 
-### Project description of GOJAHL7
+### Project description of HL7-GOJA
 
-This is the automatic generated project description of GOJAHL7. Stay tuned for updates :-)
+This is the automatic generated project description of HL7-GOJA. Stay tuned for updates :-)
 
 ### License
 
