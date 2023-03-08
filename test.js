@@ -978,10 +978,10 @@ function main(message) {
     ack.set('MSA.1', 'AA');
     ack.set('MSA.2', hl7.get("MSH.9"));
 
-    let x = ack.build();
+    let ackStr = ack.build();
 
     console.info("ACK:")
-    console.info(x);
+    console.info(ackStr);
 
-    return "";
+    return ackStr;
 }
